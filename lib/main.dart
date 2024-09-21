@@ -17,7 +17,13 @@ void main() {
           ),
           // backgroundColor: Color.fromRGBO(255, 255, 0, 1),
           child: const Center(
-            child: Text('Hellow World!'),
+            child: Text(
+              'Hellow World!',
+              style: TextStyle(
+                color: Colors.white,
+                fontSize: 28,
+              ),
+            ),
           ),
         ),
       ),
