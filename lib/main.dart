@@ -11,6 +11,8 @@ void main() {
                 Color.fromARGB(255, 26, 2, 80),
                 Color.fromARGB(255, 45, 7, 98),
               ],
+              begin: Alignment.topLeft,
+              end: Alignment.bottomRight,
             ),
           ),
           // backgroundColor: Color.fromRGBO(255, 255, 0, 1),
