@@ -24,8 +24,8 @@ class GradientContainer extends StatelessWidget{
             color:Color.fromARGB(0, 255, 255, 255),
             fontSize: 28,
           ),
-        )
+        ),
       ),
-    )
+    );
   }
 }
